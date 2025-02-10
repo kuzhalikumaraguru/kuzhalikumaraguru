@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kuzhali.kumaraguru@gmail.com**
 
-- 📄 Know about my experiences [5.2 years of experience in IT as an angular developer](5.2 years of experience in IT as an angular developer)
+- 📄 Know about my experiences 5.5 years of experience in IT as an angular developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
